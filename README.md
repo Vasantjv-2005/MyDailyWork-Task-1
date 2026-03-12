@@ -43,6 +43,22 @@ A modern, responsive personal portfolio website built with HTML, CSS, and JavaSc
 - **Google Fonts**: Inter font family for typography
 - **Responsive Design**: Mobile-first approach
 
+### Project Review and deployed link 
+### Deployed link: 
+https://my-daily-work-task-1.vercel.app/
+
+
+![WhatsApp Image 2026-03-12 at 10 25 18 PM](https://github.com/user-attachments/assets/6562f849-9923-4a1f-ac41-a6f26b8bd4f9)
+![WhatsApp Image 2026-03-12 at 10 26 54 PM](https://github.com/user-attachments/assets/42ac3f9d-9cdf-4405-829a-7407c0e92f5c)
+![WhatsApp Image 2026-03-12 at 10 27 24 PM](https://github.com/user-attachments/assets/923a3de8-baab-4de8-a47a-ae98528d7aae)
+![WhatsApp Image 2026-03-12 at 10 27 57 PM](https://github.com/user-attachments/assets/8dae8cfd-3b64-4d53-b8eb-1006cfa4b043)
+![WhatsApp Image 2026-03-12 at 10 28 35 PM](https://github.com/user-attachments/assets/5cd5f331-2eaf-4b6b-a940-7d3390e142cf)
+
+
+
+
+
+
 ## 📁 File Structure
 
 ```
